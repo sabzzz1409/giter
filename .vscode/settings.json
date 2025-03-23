@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "Monokai Dimmed",
+    "files.exclude": {
+        // "{*.*,node_modules}":true,
+        // "stores":true,
+        // "scripts":true
+    }
+}
