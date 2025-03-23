@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
-    "dev": "nodemon dev.js"
+    "dev": "nodemon dev.js",
+    "live":"pm2 dev.js",
+    "check":"node dev.js"
   },
   "keywords": [],
   "author": "",
